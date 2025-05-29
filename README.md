@@ -177,35 +177,6 @@
         </div>
     </div>
 
-    <script>
-        function askAI() {
-            var userInput = document.getElementById("userInput").value;
-            var response = document.getElementById("response");
-
-            // 模拟AI回答
-            if (userInput.toLowerCase().includes("健康")) {
-                response.innerHTML = "健康很重要哦，记得保持良好的生活习惯和饮食均衡！";
-            } else {
-                response.innerHTML = "抱歉，我没有理解您的问题。";
-            }
-
-            // 动态显示回答
-            response.style.opacity = 0;
-            setTimeout(function() {
-                response.style.opacity = 1;
-            }, 100);
-        }
-
-        function updateVisitCount() {
-            const visitCountElement = document.getElementById('visitCount');
-            let count = localStorage.getItem('visitCount');
-            count = count ? parseInt(count) + 1 : 1;
-            localStorage.setItem('visitCount', count);
-            visitCountElement.innerText = count;
-        }
-
-        // 初始化访问量计数器
-        updateVisitCount();
-    </script>
-</body>
-</html>
+    <div style="text-align: center; margin-top: 20px;">
+        <p>扫描下方二维码，关注我们的微信公众号，获取更多健康资讯和服务。</p>
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAwElEQVQ4yWNgGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNgFIyCUTAKRsEoGAWjYBSMglEwCkbBKBgFo2AUjIJRMApGwSgYBaNg
