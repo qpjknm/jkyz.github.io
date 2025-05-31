@@ -1,4 +1,4 @@
-![qrcode_for_gh_9769a68c0f62_258](https://github.com/user-attachments/assets/97d55c97-66eb-46f9-84e2-c4d680c690c6)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -179,5 +179,4 @@
     </div>
 
     <div style="text-align: center; margin-top: 20px;">
-        <p>扫描下方二维码，关注我们的微信公众号，获取更多健康资讯和服务。</p>
-    ![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/5536e1dc-4503-4462-8938-5b3e7b34ae30)
+    ![qrcode_for_gh_9769a68c0f62_258](https://github.com/user-attachments/assets/f06bbedd-d443-41fc-9046-b908e264bf3c)
