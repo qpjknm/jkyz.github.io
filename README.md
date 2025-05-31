@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -178,8 +177,40 @@
         </div>
     </div>
 
+    <script>
+        function askAI() {
+            var userInput = document.getElementById("userInput").value;
+            var response = document.getElementById("response");
+
+            // 模拟AI回答
+            if (userInput.toLowerCase().includes("健康")) {
+                response.innerHTML = "健康很重要哦，记得保持良好的生活习惯和饮食均衡！";
+            } else {
+                response.innerHTML = "抱歉，我没有理解您的问题。";
+            }
+
+            // 动态显示回答
+            response.style.opacity = 0;
+            setTimeout(function() {
+                response.style.opacity = 1;
+            }, 100);
+        }
+
+        function updateVisitCount() {
+            const visitCountElement = document.getElementById('visitCount');
+            let count = localStorage.getItem('visitCount');
+            count = count ? parseInt(count) + 1 : 1;
+            localStorage.setItem('visitCount', count);
+            visitCountElement.innerText = count;
+        }
+
+        // 初始化访问量计数器
+        updateVisitCount();
+    </script>
+</body>
+</html>
+
     <div style="text-align: center; margin-top: 20px;">
  ![qrcode_for_gh_9769a68c0f62_258](https://github.com/user-attachments/assets/baee4df0-0bf7-4f4a-a585-a00a57a72d7a)
- ![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/f93a3e99-ce62-40e1-9fb3-35d999ac4cc5)
 
 
