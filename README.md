@@ -209,7 +209,6 @@
     </script>
 </body>
 </html>
-![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/7de007fc-5982-4090-8596-25b2e3888fec)
-
+![qrcode_for_gh_9769a68c0f62_258](https://github.com/user-attachments/assets/e9f309f0-c744-4791-80f1-6a5590b2b8b3)
 
 
