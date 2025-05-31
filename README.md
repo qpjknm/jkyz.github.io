@@ -209,8 +209,7 @@
     </script>
 </body>
 </html>
+![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/7de007fc-5982-4090-8596-25b2e3888fec)
 
-    <div style="text-align: center; margin-top: 20px;">
- ![qrcode_for_gh_9769a68c0f62_258](https://github.com/user-attachments/assets/baee4df0-0bf7-4f4a-a585-a00a57a72d7a)
 
 
