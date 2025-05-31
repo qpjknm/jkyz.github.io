@@ -179,4 +179,7 @@
     </div>
 
     <div style="text-align: center; margin-top: 20px;">
-    ![qrcode_for_gh_9769a68c0f62_258](https://github.com/user-attachments/assets/f06bbedd-d443-41fc-9046-b908e264bf3c)
+ ![qrcode_for_gh_9769a68c0f62_258](https://github.com/user-attachments/assets/baee4df0-0bf7-4f4a-a585-a00a57a72d7a)
+ ![扫码_搜索联合传播样式-标准色版](https://github.com/user-attachments/assets/f93a3e99-ce62-40e1-9fb3-35d999ac4cc5)
+
+
